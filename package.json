@@ -1,0 +1,16 @@
+{
+  "name": "meu-projeto-mario-kart",
+  "version": "1.0.0",
+  "description": "<h1>Desafio de projeto DIO: Mario Kart.JS</h1>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Kauã Henrique",
+  "license": "ISC",
+  "type": "commonjs"
+}
